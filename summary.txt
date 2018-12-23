@@ -1,0 +1,22 @@
+Heloo dear,
+
+I used database to hold file's names then read from database ,I can do task without using Database,
+but I prefer to use database and Send Files using Ajax Request in Jquery.
+============
+Steps To Open project in localhost
+1-Extact folder
+2-create database called logic_design in your host
+3-import logic_design.sql into your database
+	and make sure that your connection to DB does not use password 
+	if there is a password ,you can go to config.php and change DB_PASS to your password
+4-make sure that your project in following path
+	 C:\xampp\htdocs	               
+5-in browser you can request
+	http://localhost/logic_design_task/
+then enjoy :)
+===========
+or you can check Task in online host here
+	http://logicdesign200.000webhostapp.com
+==========
+note:
+	if you use online host ,you must wait few secondes until file uploaded then appear in page 			without reloaded
